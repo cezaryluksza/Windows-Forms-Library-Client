@@ -1,0 +1,15 @@
+c:\users\czaro\source\repos\LibraryClient\LibraryClient\bin\Debug\LibraryClient.exe.config
+c:\users\czaro\source\repos\LibraryClient\LibraryClient\bin\Debug\LibraryClient.exe
+c:\users\czaro\source\repos\LibraryClient\LibraryClient\bin\Debug\LibraryClient.pdb
+c:\users\czaro\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.csprojResolveAssemblyReference.cache
+c:\users\czaro\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.Properties.Resources.resources
+c:\users\czaro\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.csproj.GenerateResource.Cache
+c:\users\czaro\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.csproj.CoreCompileInputs.cache
+c:\users\czaro\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.exe
+c:\users\czaro\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.pdb
+c:\users\czaro\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.LoginForm.resources
+c:\users\czaro\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.MainForm.resources
+c:\users\czaro\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.Catalog.resources
+C:\Users\Czaro\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.RequestsForm.resources
+C:\Users\Czaro\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.PersonalDataForm.resources
+C:\Users\Czaro\source\repos\LibraryClient\LibraryClient\obj\Debug\LibraryClient.AdminPanelForm.resources
